@@ -1,6 +1,6 @@
 {
   "generator-jhipster": {
-    "jhipsterVersion": "4.0.2",
+    "jhipsterVersion": "4.0.3",
     "baseName": "ng2",
     "packageName": "com.mycompany.myapp",
     "packageFolder": "com/mycompany/myapp",
